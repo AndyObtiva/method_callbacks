@@ -1,0 +1,1 @@
+- Add support for arguments (consider changing API to avoid reliance on yield and pass original method invocation arguments & block through instead with an additional first argument representing invokation of method or alternatively provide a convention for invoking original method from alias directly)
